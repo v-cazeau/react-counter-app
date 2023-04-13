@@ -21,7 +21,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 .App-link {
@@ -35,4 +35,24 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+button {
+  padding: 20px;
+  font-size: 30px;
+  background: #7446CF;
+  background: radial-gradient(circle farthest-corner at bottom center, #46cf68 37%, #3934CF 88%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+section h2 {
+  font-size: 100px; 
+  color: plum;
+  background: #4DCF9F;
+  background: radial-gradient(circle farthest-corner at bottom center, #4DCF9F 37%, #2172CF 88%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
 }
