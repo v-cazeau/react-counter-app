@@ -1,6 +1,6 @@
 {
   "name": "react-counter-app",
-  "homepages": "https://v-cazeau.github.io/react-counter-app",
+  "homepage": "https://v-cazeau.github.io/react-counter-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
